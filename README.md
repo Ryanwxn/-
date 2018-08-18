@@ -1,10 +1,4 @@
-# A little game made from China
-# 中国的一个小游戏
+# A little game 
 
-该游戏暂名为：__匿伏枪火__
+name:Fire Going
 
-游玩时可以阅读这篇文章来学习如何在该游戏中愉快地玩耍
-
-__目前该游戏还未完工，预计开工日期：2018.9.2__
-
-目前这个游戏由gamecode.cpp和其他几个in文件组成，请注意不要遗漏。
